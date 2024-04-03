@@ -28,3 +28,14 @@ li{
 	width: 300px;
 	heigth: 300px"
 }
+
+.main{
+	text-align: center;
+}
+
+.video{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
